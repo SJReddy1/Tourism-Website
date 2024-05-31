@@ -1,0 +1,238 @@
+/*********************************
+8. CTA
+*********************************/
+
+.cta {
+    padding: 50px;
+    background-image: url('../images/testimonial-bg.jpg');
+    background-attachment:local;
+}
+
+
+
+/*********************************
+8.1 CTA Slider
+*********************************/
+
+.cta_slider_container {}
+
+.cta_item {
+    padding-top: 75px;
+    padding-bottom: 61px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.cta_title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #2d2c2c;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+.cta_text {
+    font-weight: 600;
+    line-height: 2.29;
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
+.testi-profile {
+    width: 60px;
+    margin: auto;
+}
+
+.cta_slider_nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+}
+
+.cta_slider_prev {
+    left: -70px;
+    font-size: 30px;
+    border: 2px solid #ff5f6f;
+    width: 30px;
+    height: 36px;
+    line-height: 0;
+    border-radius: 10px;
+    padding: 0px 5px;
+    color: #ff6b00;
+}
+
+.cta_slider_next {
+    right: -70px;
+    font-size: 30px;
+    border: 2px solid #ff5f6f;
+    width: 30px;
+    height: 36px;
+    line-height: 0;
+    border-radius: 10px;
+    padding: 0px 5px;
+    color: #ff6b00;
+}
+
+/*********************************
+10. Testimonials
+*********************************/
+
+.testimonials {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #ffffffdb;
+}
+
+/*********************************
+10.1 Testimonials Slider
+*********************************/
+
+.test_slider_container {
+    width: 100%;
+}
+
+.test_item {
+    padding-top: 36px;
+}
+
+.test_icon {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(to right, #ff9800, #eb0050);
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.test_icon img {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto !important;
+}
+
+.test_image {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.test_image img {
+    transform: scale(1);
+    transition: .5s ease-in-out;
+}
+
+.test_image:hover img {
+    transform: scale(1.2);
+}
+
+.test_content {
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.test_item_info {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    bottom: calc(100% - 15px);
+    border-radius: 20px;
+    background: linear-gradient(to right, #ff9800, #eb0050);
+    letter-spacing: 1px;
+    padding: 5px;
+    width: 225px;
+    z-index: 10;
+    text-align: center;
+}
+
+.test_name {
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.test_quote_title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.test_quote_text {
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 0 10px;
+}
+
+.slider-img {
+    transition: .3s all ease;
+    transform: scale(1.05);
+}
+
+.test_images:hover .slider-img {
+    transform: scale(1.1);
+}
+
+.test_images {
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.test_slider_nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+}
+
+.test_slider_nav .nav_path,
+.test_slider_nav .nav_arrow {
+    fill: #c4ced2;
+}
+
+.test_slider_prev {
+    left: -70px;
+    font-size: 30px;
+    border: 2px solid #ff5f6f;
+    width: 30px;
+    height: 36px;
+    line-height: 0;
+    border-radius: 10px;
+    padding: 0px 5px;
+    color: #ff6b00;
+}
+
+.test_slider_next {
+    right: -70px;
+    font-size: 30px;
+    border: 2px solid #ff5f6f;
+    width: 30px;
+    height: 36px;
+    line-height: 0;
+    border-radius: 10px;
+    padding: 0px 5px;
+    color: #ff6b00;
+}
+
+.test_slider_prev:hover {
+    border: 2px solid #ff6b00;
+    color: #ff5f6f;
+}
+
+.test_slider_next:hover {
+    border: 2px solid #ff6b00;
+    color: #ff5f6f;
+}

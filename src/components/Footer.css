@@ -1,0 +1,222 @@
+/*********************************
+13. Footer
+*********************************/
+
+.footer {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: linear-gradient(to right, #585858, #424242);
+}
+
+.footer_title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+
+
+/*********************************
+13.1 Footer - About
+*********************************/
+
+
+/*.footer_about {
+    padding-top: 67px;
+}
+
+
+.footer_logo {
+    position: absolute;
+    left: 0;
+    top: -24px;
+} */
+
+.logo-footer a img {
+    width: 150px;
+}
+
+.footer_about_text {
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFFFFF;
+    width: 80%;
+}
+
+.footer_social_item {
+    display: inline-block;
+    width: 31px;
+    height: 31px;
+    border: solid 1px #fa9e1b;
+    border-radius: 50%;
+    text-align: center;
+    transition: all 200ms ease;
+    margin-right: 9px;
+    justify-content: center;
+}
+
+.footer_social_item:last-child {
+    margin-right: 0px;
+}
+
+.footer_social_item a {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.footer_column {
+        margin-bottom: 10px;
+    }
+
+.footer_social_item a i {
+    display: block;
+    position: relative;
+    color: #FFFFFF;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+    transition: all 200ms ease;
+}
+
+.footer_social_item:hover {
+    background: #ea5b21;
+}
+
+.footer_social_item:hover a i {
+    color: #fff;
+}
+
+.footer_blog {
+    margin-top: 39px;
+}
+
+.footer_blog_item {
+    margin-bottom: 21px;
+}
+
+.footer_blog_item:last-child {
+    margin-bottom: 0px;
+}
+
+.footer_blog_image {
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.footer_blog_image img {
+    width: 100%;
+}
+
+.footer_blog_content {
+    padding-left: 81px;
+}
+
+.footer_blog_title {
+    margin-top: -4px;
+    padding-left: 1px;
+}
+
+.footer_blog_title a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.footer_blog_title a:hover {
+    color: #fa9e1b;
+}
+
+.footer_blog_date {
+    font-size: 12px;
+    font-weight: 400;
+    color: #fa9e1b;
+    margin-top: 7px;
+}
+
+.footer_tags {
+    margin-top: 40px;
+}
+
+.footer_nav_container {
+    height: 52px;
+}
+
+.footer_nav {}
+
+.footer_nav_list {
+    font-size: 0px;
+}
+
+.footer_nav_item {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.footer_nav_item a {
+    font-size: 12px;
+    font-weight: 600;
+    color: #685677;
+    text-transform: uppercase;
+    line-height: 2;
+    transition: all 200ms ease;
+}
+
+.footer_nav_item a:hover {
+    color: #ff9600;
+}
+
+.footer_col {
+        padding-left: 0px !important;
+}
+
+.footer_blog_content {
+        padding-left: 74px;
+}
+
+.footer_column {
+        margin-bottom: 10px;
+    }
+    
+.footer_column:last-child {
+        margin-bottom: 0px;
+    }
+
+.footer_nav_container {
+        height: auto;
+    }
+
+.footer_tags,
+    .contact_info_list {
+        margin-top: 20px;
+    }
+
+@media only screen and (min-width: 320px) and (max-width: 575px) {
+    .footer {
+        padding-top: 30px;
+    }
+}
+
+.footer_social_item {
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+  width: 40px; /* Adjust the width of the circular container */
+  height: 40px; /* Adjust the height of the circular container */
+  border-radius: 50%; /* Make the container circular */
+  background-color: #333; /* Example background color */
+}
+
+.footer_social_item a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  color: #fff; /* Adjust the color of the icon */
+}
+
+

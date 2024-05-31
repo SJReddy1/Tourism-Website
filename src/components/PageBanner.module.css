@@ -1,0 +1,29 @@
+.banner {
+	width: 100%;
+	height: 200px;
+	background-image: url(/banner-subpages.webp);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner::before {
+	position: absolute;
+	content: "";
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #ea5b21d4;
+}
+
+.banner h2 {
+	font-weight: 800;
+	text-transform: uppercase;
+	color: white;
+	z-index: 10;
+	font-size: 50px;
+}

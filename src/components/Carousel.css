@@ -1,0 +1,45 @@
+.custom-prev-arrow,
+.custom-next-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  cursor: pointer;
+  color: white;
+  font-size: 24px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.5); /* Add background color */
+  padding: 10px;
+}
+
+.custom-prev-arrow {
+  left: 10px;
+}
+
+.custom-next-arrow {
+  right: 10px;
+}
+
+
+.custom-arrow:hover {
+  color: orange; /* Adjust color on hover as needed */
+}
+
+.custom-arrow.slick-prev {
+  left: 10px; /* Adjust left position as needed */
+}
+
+.custom-arrow.slick-next {
+  right: 10px; /* Adjust right position as needed */
+}
+
+.carousel-wrapper {
+  height:auto; /* Set your desired height */
+}
+
+.carousel-image {
+  width: 100%; /* Ensure the image fills the width of its container */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: contain; /* Fit the image within its container */
+}
