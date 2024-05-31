@@ -1,0 +1,27 @@
+.smallimg{
+    height: 200px;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bs{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 20px;
+    padding: 20px !important;
+    border-radius: 20px;
+}
+
+.bigimg{
+    height: 300px;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+
+.btn{
+    margin: 1rem;
+}
