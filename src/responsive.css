@@ -1,0 +1,1033 @@
+@media only screen and (max-width: 1280px) {
+	.cta_slider_prev {
+			left: 15px;
+	}
+	.cta_slider_next {
+			right: 15px;
+	}
+	.test_slider_prev {
+			left: 15px;
+	}
+	.test_slider_next {
+			right: 15px;
+	}
+	.footer_col {
+			padding-left: 0px !important;
+	}
+}
+
+@media only screen and (min-width:576px) {
+	.gallery-dubai-package-mob,
+	.CONT-GEN-bg-one {
+			display: none !important;
+	}
+}
+
+@media only screen and (min-width:576px) {
+	.gallery-dubai-package-mob,
+	.CONT-GEN-bg-one {
+			display: none !important;
+	}
+}
+
+@media only screen and (max-width: 1199px) {
+	.main_nav_container {
+			margin-right: 121px;
+	}
+	.home_slider_content h1:first-child {
+			font-size: 92px;
+	}
+	.home_slider_content h1:nth-child(2) {
+			font-size: 70px;
+			margin-top: -24px;
+	}
+	.about_social_item {
+			margin-right: 7px;
+			width: 35px;
+			height: 35px;
+	}
+	.footer_blog_content {
+			padding-left: 74px;
+	}
+	.test_item_info {
+			width: 200px;
+	}
+	.test_name {
+			font-size: 13px;
+	}
+	.test_item_info_service {
+			transform: translate(-50%, 0px);
+			bottom: calc(100% - 0px);
+	}
+	.booking_policy-img img {
+			margin-left: 0%;
+	}
+}
+
+@media only screen and (min-width:576px) {
+	.gallery-dubai-package-mob,
+	.CONT-GEN-bg-one {
+			display: none !important;
+	}
+	.about-sec-first {
+			height: 360px;
+	}
+	.modal-content {
+			width: 100% !important;
+	}
+}
+
+@media only screen and (max-width: 991px) {
+	.main_nav_container {
+			display: none;
+	}
+	.home_slider_content h1:first-child {
+			font-size: 72px;
+	}
+	.home_slider_content h1:nth-child(2) {
+			font-size: 56px;
+			margin-top: 0px;
+	}
+	.home_slider_button {
+			margin-top: 30px;
+	}
+	.hamburger {
+			display: block;
+			position: absolute;
+			right: 0;
+	}
+	.search {
+			height: auto;
+			padding-top: 100px;
+			padding-bottom: 100px;
+	}
+	.search_tabs_container {
+			position: relative;
+			bottom: auto;
+			left: auto;
+			width: auto;
+	}
+	.search_tabs {
+			height: auto;
+	}
+	.search_tab {
+			height: 62px;
+			width: 100%;
+			padding-left: 15px;
+	}
+	.search_tab:first-child {
+			border-top-left-radius: 0px;
+			padding-left: 15px;
+	}
+	.search_tab:last-child {
+			border-top-right-radius: 0px;
+	}
+	.search_panel {
+			display: none !important;
+			margin-top: 50px;
+	}
+	.search_panel.active {
+			display: flex !important;
+	}
+	.search_item {
+			width: 100% !important;
+			margin-bottom: 23px;
+	}
+	.search_item:last-child {
+			margin-bottom: 0px;
+	}
+	.search_button {
+			margin-top: 9px;
+	}
+	.intro_col {
+			margin-bottom: 60px;
+	}
+	.intro_col:last-child {
+			margin-bottom: 0px;
+	}
+	.intro_item {
+			height: 810px;
+	}
+	.cta_item {
+			padding-left: 30px;
+			padding-right: 30px;
+			padding-top: 10px;
+	}
+	.cta_slider_nav {
+			display: none !important;
+	}
+	.offers_image_container {
+			height: 708px;
+	}
+	.offers_content {
+			margin-top: 40px;
+	}
+	.footer_column {
+			margin-bottom: 10px;
+	}
+	.footer_column:last-child {
+			margin-bottom: 0px;
+	}
+	.copyright {
+			padding-top: 30px;
+			padding-bottom: 30px;
+	}
+	.copyright_content {
+			height: auto;
+			margin-top: 15px;
+	}
+	.about {
+			padding-bottom: 0px;
+			padding-top: 55px !important;
+	}
+	.about_image {
+			position: relative;
+			display: flex;
+			justify-content: center;
+			margin-top: -38px;
+	}
+	.about_image img {
+			max-width: 60vw;
+	}
+	.about_content {
+			margin-top: 20px;
+	}
+	.about_info {
+			padding-top: 50px;
+	}
+	.footer_nav_container {
+			height: auto;
+	}
+	/* .footer_nav_item {
+	display: block;
+} */
+	.banner_part {
+			height: 700px;
+	}
+	.banner_part:after {
+			position: absolute;
+			content: "";
+			right: 0;
+			bottom: -132px;
+			width: 100%;
+			height: 100%;
+			background-image: url(../img/banner_overlay.svg);
+			background-position: top;
+			background-repeat: no-repeat;
+			z-index: -1;
+			background-size: cover;
+	}
+	.banner_part .banner_text {
+			padding-top: 235px;
+	}
+	.banner_part .banner_text h5 {
+			font-size: 25px;
+			margin-bottom: 20px;
+	}
+	.banner_part .banner_text h5 {
+			font-size: 36px;
+			text-transform: uppercase;
+			font-weight: 500;
+			color: #fff;
+			font-family: "Kaushan Script", cursive;
+			margin-bottom: 34px;
+	}
+	.five_days_pckg,
+	.six_days_pckg,
+	.seven_days_pckg {
+			padding: 0px 20px !important;
+	}
+	.availability {
+			margin-top: 20px;
+	}
+	.desert_safari_sec_row {
+			margin-top: 0px;
+	}
+	.imp-info-skidubai,
+	.why-should-dubai {
+			padding: 20px 10px;
+	}
+	.intro_content {
+			padding-top: 30px;
+	}
+	.desert_safari {
+			padding: 0px 20px 20px;
+	}
+	.booking_policy-img {
+			margin-top: 3rem;
+	}
+	.clean .overlay span:nth-child(2) {
+			font-size: 12px !important;
+	}
+	.luxury-buses h4 {
+			font-size: 15px;
+	}
+	.about-sec-first {
+			height: 320px !important;
+	}
+	.about-banner {
+			height: 170px;
+			background-position: 0px -120px;
+	}
+	.menu_item a {
+			font-size: 22px;
+	}
+	.sec-about-us-row {
+			margin-top: 0rem;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.intro_item {
+			height: 599px;
+	}
+	.offers_image_container {
+			height: 524px;
+	}
+	.banner_part .banner_text h1 {
+			font-size: 30px;
+			margin-bottom: 15px;
+			line-height: 1.3;
+	}
+	.home_content {
+			bottom: 40px;
+			left: 50%;
+	}
+	.home_title {
+			font-size: 14px;
+			text-align: center;
+	}
+	.test_slider_nav {
+			display: block !important;
+	}
+	.test_content_service {
+			bottom: 8px;
+			height: 0%;
+			background: none;
+	}
+	.intro {
+			margin-top: 0px;
+			padding-top: 30px !important;
+			padding-bottom: 10px !important;
+	}
+	.section_title {
+			font-size: 20px;
+	}
+	.yacht-img-one img,
+	.yacht-img-two img,
+	.yacht-img-three img,
+	.yacht-img-four img {
+			margin-top: 20px;
+			height: 300px;
+	}
+	.yacht-img-three {
+			margin-top: 0px !important;
+	}
+	.inclusion_sec {
+			display: block !important;
+			justify-content: start !important;
+	}
+	.intro_title {
+			font-size: 22px;
+	}
+	.header.scrolled .main_nav_col {
+			height: 80px;
+	}
+	.city-name p,
+	.aux-modern-heading-secondary {
+			font-size: 15px !important;
+	}
+	.test_item_img {
+			margin-top: 0px !important;
+	}
+	.clean .overlay span:nth-child(2) {
+			font-size: 12px !important;
+	}
+	.luxury-buses {
+			height: auto;
+	}
+	.shape {
+			top: 31.6%;
+	}
+	.about-sec-first {
+			height: auto !important;
+			margin-top: 20px;
+	}
+	.rental-bus {
+			height: auto;
+	}
+	/* .attraction-gallery img{
+margin-top: 20px;
+ } */
+	.new-gallery {
+			padding: 0px 20px 30px 20px !important;
+	}
+	.aux-modern-heading-primary {
+			height: 35px;
+	}
+	.test_image {
+			margin-top: 20px;
+	}
+	.test-images a {
+			margin-top: 0.5rem !important;
+	}
+	.attraction-col {
+			padding: 0.5rem;
+	}
+	.attraction-all-img {
+			padding: 2rem !important;
+	}
+	.footer_tags,
+	.contact_info_list {
+			margin-top: 20px;
+	}
+	/* .footer_about {
+	padding-top: 50px;
+} */
+	.contact_info_item {
+			margin-bottom: 13px;
+	}
+	.contact_info_icon img {
+			width: 80%;
+	}
+	.copyright_content div {
+			font-size: 13px;
+	}
+	.intro-yachtwater {
+			padding-top: 0px !important;
+	}
+	.modal .carousel-control-prev {
+			left: 0px;
+	}
+	.modal .carousel-control-next {
+			right: 0px;
+	}
+}
+
+@media only screen and (max-width: 575px) {
+	.footer_title {
+			font-size: 14px;
+	}
+	.yacht-info p {
+			font-size: 14px;
+	}
+	p {
+			font-size: 13px;
+	}
+	.cta_text {
+			line-height: 1.8;
+			margin-bottom: 10px;
+	}
+	.top_bar {
+			display: none;
+	}
+	.button {
+			height: 44px;
+			border-radius: 22px;
+	}
+	.button a {
+			line-height: 44px;
+			padding-left: 20px;
+			padding-right: 20px;
+	}
+	/* .logo a img {
+			width: 24px;
+	} */
+	.logo a {
+			font-size: 24px;
+	}
+	.home_slider_next {
+			right: 10px;
+	}
+	.home_slider_prev {
+			left: 10px;
+	}
+	.home_slider_nav {
+			top: 90%;
+	}
+	.home_slider_content h1:first-child {
+			font-size: 48px;
+	}
+	.home_slider_content {
+			top: 70%;
+			left: 55%;
+			width: 80%;
+	}
+	.home_slider_content h1:nth-child(2) {
+			font-size: 28px;
+			margin-top: 0px;
+	}
+	.home_slider_button {
+			margin-top: 4px;
+	}
+	.home_slider_dots {
+			display: none !important;
+	}
+	.main_nav_col {
+			height: 60px;
+	}
+	.header.scrolled .main_nav_col {
+			height: 60px;
+	}
+	.logo_container {
+			-webkit-transform: none;
+			-moz-transform: none;
+			-ms-transform: none;
+			-o-transform: none;
+			transform: none;
+	}
+	.content_search {
+			-webkit-transform: translateY(2px);
+			-moz-transform: translateY(2px);
+			-ms-transform: translateY(2px);
+			-o-transform: translateY(2px);
+			transform: translateY(2px);
+	}
+	.header.scrolled .content_search {
+			-webkit-transform: translateY(2px);
+			-moz-transform: translateY(2px);
+			-ms-transform: translateY(2px);
+			-o-transform: translateY(2px);
+			transform: translateY(2px);
+	}
+	.hamburger {
+			-webkit-transform: none;
+			-moz-transform: none;
+			-ms-transform: none;
+			-o-transform: none;
+			transform: none;
+	}
+	.logo a {
+			font-size: 16px;
+	}
+	.logo a img {
+			margin-top: 2px;
+			width: 90px;
+	}
+	.hamburger i {
+			font-size: 18px;
+			margin-left: -40px !important;
+	}
+	.content_search svg {
+			width: 15px;
+			height: 15px;
+	}
+	.menu_close_container {
+			top: 15px;
+			right: 28px;
+	}
+	.menu_logo {
+			margin-bottom: 17px;
+	}
+	.menu_logo a img {
+			width: 100px !important;
+	}
+	.menu_item a {
+			font-size: 24px;
+	}
+	.search_button {
+			line-height: 44px;
+	}
+	.intro_item {
+			height: calc((100vw - 30px) / 0.85);
+	}
+	.section_title {
+			font-size: 18px;
+			margin-top: 0px !important;
+	}
+	.cta_item {
+			padding-left: 5px;
+			padding-right: 5px;
+	}
+	.cta_title {
+			font-size: 16px;
+	}
+	.test_item {
+			padding: 26px;
+	}
+	.test_icon {
+			left: 20px;
+			width: 52px;
+			height: 52px;
+	}
+	.test_content {
+			padding-left: 20px;
+			padding-right: 20px;
+			padding-top: 36px;
+	}
+	.test_name {
+			font-size: 13px;
+	}
+	.test_quote_title {
+			font-size: 16px;
+			padding-left: 1px;
+	}
+	.test_quote_text {
+			margin-top: 5px;
+	}
+	.trending_title a {
+			font-size: 14px;
+	}
+	.trending_price {
+			font-size: 12px;
+	}
+	.trending_location {
+			font-size: 12px;
+	}
+	.offers_image_container {
+			height: calc((100vw - 30px) / 0.974);
+	}
+	.trending_item {
+			margin-bottom: 30px;
+	}
+	.contact_title {
+			font-size: 24px;
+	}
+	.contact_form_name {
+			width: 100%;
+			margin-right: 0px;
+	}
+	.contact_form_email {
+			width: 100%;
+			margin-top: 11px;
+	}
+	.about_text {
+			font-size: 13px;
+	}
+	.about_info {
+			padding-top: 20px;
+	}
+	.contact_info_text {
+			font-size: 13px;
+	}
+	.about_social_list {
+			margin-top: 20px;
+	}
+	.about_social_item a i {
+			font-size: 18px;
+	}
+	.google_map {
+			height: 75vh;
+	}
+	.form_submit_button {
+			line-height: 44px;
+	}
+	.footer_about_text {
+			font-size: 13px;
+	}
+	.banner_part .banner_text h1 {
+			font-size: 30px;
+			margin-bottom: 15px;
+			line-height: 1.3;
+	}
+	.aux-modern-heading-secondary {
+			font-size: 14px !important;
+	}
+	.elementor-text-editor p {
+			line-height: 20px;
+	}
+	.rental-bus-img img {
+			height: 160px;
+			width: 160px;
+			top: 80px;
+	}
+	.home {
+			height: 40vh;
+	}
+	.testimonials {
+			padding-top: 10px;
+			padding-bottom: 0px;
+	}
+	.yacht-info {
+			padding: 1rem !important;
+	}
+	.inclusion_first h4,
+	.booking_policy-dubai h4 {
+			font-size: 15px;
+	}
+	.attraction-all-img {
+			padding: 1rem !important;
+			padding-top: 0px !important;
+	}
+	.menu_item a {
+			font-size: 18px;
+	}
+	.-box2,
+	.-box10,
+	.-box11,
+	.-box8,
+	.-box6,
+	.-box3 {
+			display: none;
+	}
+	.CONT-GEN-bg {
+			display: none !important;
+	}
+	 :root {
+			--wbox: 100% !important;
+			--hbox: 10rem !important;
+	}
+	.mice-img-size-two {
+			height: 352px !important;
+	}
+	.mice-img-size-one {
+			height: 160px !important;
+	}
+	.resize-cont-gen,
+	#CONT-GEN {
+			width: 100% !important;
+	}
+	.resize-cont-gen {
+			margin-top: 8rem !important;
+	}
+	.-box9 {
+			margin-top: -30px;
+	}
+	.attraction-col {
+			padding: 0.5rem;
+	}
+	.gallery-col {
+			padding: 0rem 0.5rem;
+	}
+	.test_name_place {
+			font-size: 12px;
+	}
+	.modal-dialog {
+			width: 80% !important;
+			margin: 10px !important;
+	}
+	.modal {
+			top: 100px;
+	}
+	.modal-content {
+			width: 120% !important;
+	}
+	.cont-cajas3d {
+			display: block !important;
+	}
+}
+
+@media only screen and (max-width: 479px) {
+	h2 {
+			font-size: 24px;
+	}
+	p {
+			font-size: 13px;
+	}
+	.intro_center h1 {
+			font-size: 36px;
+	}
+	.intro_text p {
+			font-size: 16px;
+	}
+	.img-about-dest {
+			transform: rotate(335deg);
+	}
+	.img-about-dest-one {
+			transform: rotate(21deg);
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.banner_part .banner_text h1 {
+			font-size: 40px;
+			margin-bottom: 15px;
+			line-height: 1.3;
+	}
+	.home_title {
+			font-size: 26px;
+	}
+	.home_content {
+			bottom: 35px;
+	}
+	.menu_close_container {
+			top: 60px;
+			right: 60px;
+	}
+	.test_content_service {
+			background: none;
+			border-top: none;
+	}
+	.section_title {
+			font-size: 24px;
+	}
+	.city-name p {
+			font-size: 14px !important;
+			padding: 0px 4px !important;
+	}
+	.city-name {
+			height: 30px !important;
+	}
+	.shape {
+			top: 46.6%;
+	}
+	.rental-bus {
+			padding: 18% 8% 5%;
+			height: 370px;
+	}
+	.vechile-fleet-banner {
+			background-position: 0px 0px;
+	}
+	.vechile-fleet-banner-text h1 {
+			font-size: 2.5rem;
+	}
+	.vechile-text-bg svg {
+			top: 170px;
+			transform: rotate(57deg);
+			left: 0%;
+			width: 100%;
+	}
+	.vechile-book-now {
+			padding: 3px 25px;
+	}
+	.test_slider_nav {
+			display: none !important;
+	}
+	.mice-img-size-two {
+			height: 352px !important;
+	}
+	.mice-img-size-one {
+			height: 160px !important;
+	}
+	 :root {
+			--wbox: 10rem !important;
+			--hbox: 10rem !important;
+	}
+	.third-img-sec,
+	.sec-img-sec,
+	.packages-img {
+			padding-top: 1rem !important;
+	}
+	.gallery-col {
+			padding: 0.5rem;
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.banner_part .banner_text h1 {
+			font-size: 40px;
+			margin-bottom: 15px;
+			line-height: 1.4;
+	}
+	.test_slider_nav {
+			display: none !important;
+	}
+}
+
+@media (max-width:1199px) and (min-width:992px) {
+	.vechile-fleet-banner-text {
+			left: 13%;
+	}
+	.vechile-fleet-banner-text p {
+			width: 100%;
+	}
+	.vechile-fleet-banner-text h1 {
+			font-size: 2rem;
+	}
+	.vechile-text-bg svg {
+			top: 130px;
+			left: 10px;
+			transform: rotate(11deg);
+			width: 100%;
+	}
+	.shape {
+			top: 26.4%;
+	}
+	.rental-bus {
+			padding: 36% 8% 8%;
+			height: 530px;
+	}
+	.city-name p {
+			font-size: 16px !important;
+	}
+	 :root {
+			--wbox: 13rem !important;
+	}
+	.about {
+			padding-top: 55px;
+			padding-bottom: 0px;
+	}
+}
+
+@media (min-width:1200px) and (max-width:1599px) {
+	.rental-bus {
+			height: 450px;
+			padding: 28% 8% 8%;
+	}
+	.home_slider_content h1:nth-child(2) {
+			font-size: 90px;
+	}
+	.booking_policy-img img {
+			margin-left: 0;
+	}
+	.vechile-fleet-banner-text h1 {
+			font-size: 3rem;
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	.home {
+			height: 70vh;
+	}
+	.destination_bg .owl-carousel .owl-item img {
+			height: 350px;
+			object-fit: contain;
+	}
+	.cta_slider_nav {
+			display: block !important;
+	}
+	.cta_slider_prev {
+			left: -50px !important;
+	}
+	.cta_slider_next {
+			right: -50px !important;
+	}
+	.home_slider_content h1:nth-child(2) {
+			font-size: 40px !important;
+	}
+	.vechile-fleet-banner {
+			height: 380px;
+			background-position: 0px 60px;
+			background-size: contain;
+	}
+	.vechile-fleet-banner-text {
+			top: 170px;
+			width: 80%;
+			left: 2%;
+	}
+	.vechile-fleet-banner-text h1 {
+			font-size: 1.5rem;
+	}
+	.vechile-text-bg svg {
+			position: relative;
+			top: -50px;
+			left: 1%;
+			width: 40%;
+			transform: rotate(204deg);
+	}
+	.vechile-book-now {
+			padding: 1px 20px;
+			font-size: 14px;
+	}
+	 :root {
+			--wbox: 7rem !important;
+			--hbox: 10rem !important;
+	}
+	.mice-img-size-two {
+			height: 352px !important;
+	}
+	.mice-img-size-one {
+			height: 160px !important;
+	}
+	.gallery-col {
+			padding: 0.5rem;
+	}
+	.third-img-sec,
+	.sec-img-sec,
+	.packages-img {
+			padding-top: 1rem !important;
+	}
+	.modal-content {
+			width: 100% !important;
+	}
+	.city-name p {
+			padding: 0px 8px !important;
+	}
+	.city-name {
+			height: 30px !important;
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 575px) {
+	.vechile-fleet-banner {
+			height: 300px;
+			background-position: 0px 10px;
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: inherit;
+	}
+	.vechile-fleet-banner-text {
+			top: 80px;
+			width: 80%;
+			left: 2%;
+	}
+	.vechile-fleet-banner-text h1 {
+			font-size: 1.5rem;
+	}
+	.vechile-text-bg svg {
+			position: relative;
+			top: -100px;
+			left: -2%;
+			width: 55%;
+			transform: rotate(20deg);
+			/* display: none; */
+	}
+	.vechile-book-now {
+			padding: 1px 20px;
+			font-size: 14px;
+	}
+	.shape {
+			display: none !important;
+	}
+	.rental-bus-title h3 {
+			font-size: 18px;
+			margin-top: 20px;
+	}
+	.test-images a {
+			margin-top: 0.5rem !important;
+	}
+	.clean .overlay span:nth-child(2) {
+			font-size: 9px !important;
+			top: 30%;
+	}
+	.gallery-dubai-package,
+	.clean .overlay:hover span:nth-child(3) {
+			display: none;
+	}
+	.city-name {
+			height: 24px !important;
+	}
+	.city-name p {
+			font-size: 12px !important;
+			padding: 0px 8px !important;
+	}
+	.third-img-sec,
+	.sec-img-sec,
+	.packages-img {
+			padding-top: 1rem !important;
+	}
+	.test_item_info_service {
+			transform: translate(-50%, -8px) !important;
+			padding: 2px 2px !important;
+			letter-spacing: 0px;
+	}
+	.test_slider_prev {
+			left: -5px;
+	}
+	.test_slider_next {
+			right: -5px;
+	}
+	.first-about-us-row {
+			margin-top: 0rem;
+	}
+	.padding-lg {
+			padding-top: 0px;
+			padding-bottom: 0px;
+	}
+	.our-webcoderskull .cnt-block p {
+			font-size: 14px;
+	}
+	.our-webcoderskull .cnt-block h3 {
+			font-size: 16px;
+	}
+	.bus-rental-card {
+			margin-bottom: 30px;
+	}
+	.terms-conditions h4,
+	.privacy-policy h4 {
+			font-size: 16px;
+	}
+	.footer {
+			padding-top: 30px;
+	}
+}

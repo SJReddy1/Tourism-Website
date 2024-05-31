@@ -1,0 +1,24 @@
+.aux-modern-heading-primary {
+	font-size: 20px;
+	margin: 0px 20px 0px 0px;
+	padding: 5px 15px 5px 15px;
+	border-radius: 5px 5px 5px 5px;
+	width: 40px;
+	background-color: #ea5b21;
+	font-weight: 600;
+	text-align: center;
+	color: #fff;
+}
+
+.aux-modern-heading-secondary {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.five_days_pckg, .six_days_pckg, .seven_days_pckg {
+	padding: 0px 80px;
+}
+
+.elementor-text-editor {
+	margin-left: 60px;
+}
