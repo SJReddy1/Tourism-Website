@@ -1,0 +1,9 @@
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.navigation {
+   padding-block: 1rem;
+   margin: 1rem auto;
+}
